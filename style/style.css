@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: rgb(117, 96, 57);
+}
+
+.input-group-text{
+    font-weight: bold;
+}
+
+h1{
+    color:white;
+}
+.container{
+    margin-top: 50px;
+}
+
+.row{
+    margin-top:50px;
+}
+
+.sec-part{
+    padding: 0px 10px;
+}
+
+.input-group-text{
+    width: 200px;
+
+}
+.delete-btn{
+    display: inline-block;
+    width: 5%;
+}
+.other-key{
+    text-align: left;
+}
+.out{
+    color: white;
+}
+.out-g{
+    background-color:#2DDD4B !important;
+}
+.out-r{
+    background-color:#E06A09 !important;
+}
+
+.dbtnc-w{
+    color : white;
+}
+
+.dbtnc-r{
+    color : red;
+}
